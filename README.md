@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我将会用Github记录我的笔记与我的学习过程的各种练习，学习经历等
+
+<br />
+
+也供一些C语言，HTML，CSS，JavaScript的初学者参考以及学习

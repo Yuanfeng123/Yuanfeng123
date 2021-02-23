@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <br />
 
 也供一些C语言，HTML，CSS，JavaScript的初学者参考以及学习
+
+<br />
+
+本人有HTML，CSS，JavaScript等语言基础，目前正在学习C语言。或许笔记当中或者我的解题方法有些不妥之处，还请大佬们多多指教一下，谢谢:stuck_out_tongue_winking_eye:

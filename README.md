@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <br />
 
-也供一些C语言，HTML，CSS，JavaScript的初学者参考以及学习
+也供一些C/C++，HTML，CSS，JavaScript，GitHub，Sphinx，Python的初学者参考以及学习
 
 <br />
 
-本人有HTML，CSS，JavaScript等语言基础，目前正在学习C语言。或许笔记当中或者我的解题方法有些不妥之处，还请大佬们多多指教一下，谢谢:stuck_out_tongue_winking_eye:
+本人有HTML，CSS，JavaScript等语言基础，目前正在学习C语言。或许笔记当中或者我的解题方法有些不妥之处，还请大佬们多多指教一下，我也会在GitHub上上传一些我自己写的程序与游戏等，谢谢:stuck_out_tongue_winking_eye:

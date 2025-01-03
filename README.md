@@ -11,6 +11,12 @@ I’m a full-stack software engineer passionate about building **AI-powered solu
 - **Databases**: MongoDB 🍃 | PostgreSQL 🐘
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuanfeng123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuanfeng123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
 ### 🎯 Highlights
 - Built and launched **10+ SaaS platforms** in just 6 months, including projects like **@MindGPT**, **@ElevateZ**, and **@DuckyRental** 🛠️.
 - Founded a startup and won a **$250k grant** at 17, securing government funding 💰.
@@ -25,9 +31,4 @@ I’m a full-stack software engineer passionate about building **AI-powered solu
 - Sharing my **tech journey** on **LinkedIn**, **Twitter**, and my **Blog** 📚.
 
 
-### 💡 My Ultimate Goal
-My goal is to **create impactful tech solutions** that make the world a better place. Whether through **AI**, **robotics**, or **distributed systems**, I’m always seeking ways to innovate and tackle real-world challenges.
 
-
-### Let’s Connect! 🌐  
-If you're interested in collaborating on AI, SaaS, or any tech projects, feel free to reach out!
